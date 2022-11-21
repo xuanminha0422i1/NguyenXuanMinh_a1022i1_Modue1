@@ -3,16 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="0f0eacef-7d4a-43b4-b1d4-e88c5eec50a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_Tổng quan JavaScript/bai_tap/bai1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_Tổng quan JavaScript/bai_tap/bai2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_Tổng quan JavaScript/thuc_hanh/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_Tổng quan JavaScript/thuc_hanh/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_Tổng quan JavaScript/thuc_hanh/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_Tổng quan JavaScript/thuc_hanh/bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/bai_tap/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/bai_tap/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/bai_tap/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/bai_tap/bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/thuc_hanh/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/thuc_hanh/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/thuc_hanh/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_Biến, kiểu dữ liệu và toán tử/thuc_hanh/bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6_Cấu trúc điều kiện 1/bai_tap/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6_Cấu trúc điều kiện 1/bai_tap/bai2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ss6_Cấu trúc điều kiện 1/thuc_hanh/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_Cấu trúc điều kiện 1/thuc_hanh/bai1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss6_Cấu trúc điều kiện 1/thuc_hanh/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_Cấu trúc điều kiện 1/thuc_hanh/bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.6.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,11 @@
       <workItem from="1668768135168" duration="1224000" />
       <workItem from="1668769971612" duration="1530000" />
       <workItem from="1668772467421" duration="1702000" />
-      <workItem from="1669027070830" duration="809000" />
+      <workItem from="1669027070830" duration="897000" />
+      <workItem from="1669028932596" duration="1779000" />
+      <workItem from="1669031402943" duration="1846000" />
+      <workItem from="1669033801525" duration="599000" />
+      <workItem from="1669036452612" duration="1237000" />
     </task>
     <servers />
   </component>
@@ -103,9 +109,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1668166248417">
+    <state x="376" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1669031998453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="376" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1668166248417" />
+    <state x="376" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1669031998453" />
   </component>
 </project>
