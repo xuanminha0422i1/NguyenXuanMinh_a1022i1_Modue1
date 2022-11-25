@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f0eacef-7d4a-43b4-b1d4-e88c5eec50a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss1_Pseudo code &amp; Flowchart/ss7_Cấu trúc điều kiện 2/bai_tap/bai3.6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai4.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai4.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai4.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_Cấu trúc điều kiện 2/bai_tap/bai4.11.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +98,8 @@
       <workItem from="1669089419862" duration="542000" />
       <workItem from="1669089999250" duration="10000" />
       <workItem from="1669090062130" duration="11000" />
+      <workItem from="1669372293515" duration="1472000" />
+      <workItem from="1669374212520" duration="861000" />
     </task>
     <servers />
   </component>
