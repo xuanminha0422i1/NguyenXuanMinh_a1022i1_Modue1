@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f0eacef-7d4a-43b4-b1d4-e88c5eec50a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss8_Cấu trúc lặp 1/thuc_hanh/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai3.8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai4.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_Cấu trúc lặp 2/bai_tap/bai4.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +103,8 @@
       <workItem from="1669377847376" duration="944000" />
       <workItem from="1669804669403" duration="17000" />
       <workItem from="1669804731614" duration="668000" />
+      <workItem from="1669805707429" duration="1120000" />
+      <workItem from="1669977337881" duration="697000" />
     </task>
     <servers />
   </component>
