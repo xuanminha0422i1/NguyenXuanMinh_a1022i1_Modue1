@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f0eacef-7d4a-43b4-b1d4-e88c5eec50a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai3.9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai4.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai4.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai4.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai4.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai4.6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_Mảng 2/bai_tap/bai1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +121,12 @@
       <workItem from="1669805707429" duration="1120000" />
       <workItem from="1669977337881" duration="697000" />
       <workItem from="1669979172417" duration="1797000" />
-      <workItem from="1669980998648" duration="1198000" />
+      <workItem from="1669980998648" duration="1460000" />
+      <workItem from="1669982807268" duration="761000" />
+      <workItem from="1669985412845" duration="1329000" />
+      <workItem from="1669987970786" duration="669000" />
+      <workItem from="1669989795120" duration="595000" />
+      <workItem from="1670220728231" duration="773000" />
     </task>
     <servers />
   </component>
@@ -114,9 +134,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1669031998453">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="376" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1670221475836">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state x="376" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.816@0.0.1536.816" timestamp="1670221475836" />
     <state x="376" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1669031998453" />
   </component>
   <component name="XDebuggerManager">

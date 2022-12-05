@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Luyện tập mảng 1-bai2</title>
+</head>
+<body>
+<script>
+    let arr= [1,2,34,2,3,5,7,23,45,100]
+    let max=0;
+    let vt;
+    for (let i=0;i<arr.length;i++){
+        if (max<arr[i]){
+            max=arr[i];
+            vt=i;
+        }
+
+    }
+    document.write("gia tri lon nhat la "+ max +" o vi tri so " + vt);
+</script>
+</body>
+</html>
